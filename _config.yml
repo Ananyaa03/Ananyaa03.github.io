@@ -1,1 +1,11 @@
+title: Ananya Garg # your name (or website title) here
+logo: "/profile.png?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+ Aspiring Software Developer
+  <br><br>
+  <a href="mailto:gargananya2001@gmail.com">gargananya2001@gmail.com </a>
+  <br>
+  <a href="https://www.linkedin.com/in/ananya-garg-13704a1b6/">LinkedIn Profile</a>
+  <br>
+  <a href="https://github.com/Ananyaa03">Gihub</a> 
 theme: jekyll-theme-minimal
