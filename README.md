@@ -1,6 +1,6 @@
 ## Portfolio
 
-I am a aspiring software engineer .I am currently a final year engineering graduate pursuing my B.Tech from MPSTME NMIMS and Majoring in Computer Science Engineering.
+I am a aspiring software engineer .I am currently a final year engineering graduate pursuing my B.Tech from MPSTME NMIMS and majoring in Computer Science Engineering.
 ---
 
 ## Skills
@@ -9,7 +9,7 @@ I am a aspiring software engineer .I am currently a final year engineering gradu
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="html" width="40" height="40">
   <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png' alt="css" width="40" height="40">
   <img src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' height='30' width='auto' alt="js">
-  <ing src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png' alt = "python" width="40" height="40"/>
+  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png' alt = "python" width="40" height="40"/>
 </p>
 
 ---
