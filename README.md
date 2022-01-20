@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+## Portfolio
 
-You can use the [editor on GitHub](https://github.com/Ananyaa03/Ananyaa03.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I am a aspiring software engineer .I am currently a final year engineering graduate pursuing my B.Tech from MPSTME NMIMS and Majoring in Computer Science Engineering.
+---
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Skills
 
-### Markdown
+<p align='left'>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="html" width="40" height="40">
+  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png' alt="css" width="40" height="40">
+  <img src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' height='30' width='auto' alt="js">
+  <ing src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png' alt = "css" width="40" height="40">
+</p>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+---
 
-```markdown
-Syntax highlighted code block
+## Experience
 
-# Header 1
-## Header 2
-### Header 3
+### **SOFTWARE DEVELOPER**
+### Talento Consulting Pvt Ld
 
-- Bulleted
-- List
+Worked with the technology team to build LMS(Learning Management System) for which I was assigned the tasks to build a media server and face recognition model.
 
-1. Numbered
-2. List
+### **Machine Learning Trainee**
+### MedTourEasy
 
-**Bold** and _Italic_ and `Code` text
+Worked with technology team to work on a live project ASL(American Sign language) Recognition using Deep Learning.
 
-[Link](url) and ![Image](src)
-```
+---
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## Education
 
-### Jekyll Themes
+### **Mukesh Patel School Of Technology Management & Engineering , NMIMS**
+### BTech Computer Science (2018- 2022)
+GPA 3.56
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Ananyaa03/Ananyaa03.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+---
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### INTERESTS
+I am interested in web development and Machine Learning , and I like to learn new technologies.
+Apart from tech I love to paint and read books.
